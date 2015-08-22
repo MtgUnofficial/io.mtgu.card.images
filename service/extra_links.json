@@ -1,0 +1,34 @@
+{
+    "groups": [
+         {
+            "name": "Cards Spoiler",
+            "items": [
+                {
+                    "name": "MagicSpoiler",
+                    "imgUrl": "",
+                    "externalLink": "http://www.magicspoiler.com/"
+                }
+            ]
+        },
+        {
+            "name": "Deck Builder Web",
+            "items": [
+                {
+                    "name": "DeckStats",
+                    "imgUrl": "",
+                    "externalLink": "http://deckstats.net/"
+                },
+                {
+                    "name": "TappedOut",
+                    "imgUrl": "",
+                    "externalLink": "http://tappedout.net/"
+                },
+                {
+                    "name": "MtgVault",
+                    "imgUrl": "",
+                    "externalLink": "http://www.mtgvault.com/"
+                }
+            ]
+        }
+    ]
+}
