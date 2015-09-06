@@ -27,6 +27,11 @@
                     "name": "MtgVault",
                     "imgUrl": "",
                     "externalLink": "http://www.mtgvault.com/"
+                },
+                {
+                    "name": "Simple Deckbuilder",
+                    "imgUrl": "",
+                    "externalLink": "http://decks.deckedbuilder.com/"
                 }
             ]
         }
