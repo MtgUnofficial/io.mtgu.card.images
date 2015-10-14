@@ -27,6 +27,16 @@
                     "name": "MtgVault",
                     "imgUrl": "",
                     "externalLink": "http://www.mtgvault.com/"
+                }
+            ]
+        },
+        {
+            "name": "Proxy Generator",
+            "items": [
+                {
+                    "name": "Magic BlueBones",
+                    "imgUrl": "",
+                    "externalLink": "http://magic.bluebones.net/proxies/"
                 },
                 {
                     "name": "Simple Deckedbuilder",
