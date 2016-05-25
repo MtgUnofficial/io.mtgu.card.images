@@ -27,6 +27,11 @@
                     "name": "MtgVault",
                     "imgUrl": "",
                     "externalLink": "http://www.mtgvault.com/"
+                },
+                {
+                    "name": "MtgGoldFish",
+                    "imgUrl": "",
+                    "externalLink": "http://www.mtggoldfish.com/"
                 }
             ]
         },
